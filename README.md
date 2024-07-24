@@ -7,4 +7,4 @@ Complete Front End Development by **Anurag Singh Sir**
 
 ## Projects
 
-1. Inital Setup and Motivation :point_right: [Link](https://trishulnaik-frontend-anuragsir.netlify.app/)
+0. Inital Setup and Motivation :point_right: [Link](https://trishulnaik-frontend-anuragsir.netlify.app/)
