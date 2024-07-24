@@ -1,4 +1,4 @@
-# FrontEnd-AnuragSingh
+# PROJECT 1: PORTFOLIO PROJECT
 Complete Front End Development by **Anurag Singh Sir**
 
 PortFolio Project :point_right: [Link](https://01-html-intro--trishulnaik-frontend-anuragsir.netlify.app/)
