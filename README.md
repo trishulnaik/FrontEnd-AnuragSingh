@@ -6,3 +6,5 @@ Complete Front End Development by **Anurag Singh Sir**
 >[Youtube Playlist Link](https://www.youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8) | [Anurag Portfolio Website](https://anuragsinghbam.com/)
 
 ## Projects
+
+0. [SETUP](https://trishulnaik-frontend-anuragsir.netlify.app/)
