@@ -1,10 +1,24 @@
 # FrontEnd-AnuragSingh
 Complete Front End Development by **Anurag Singh Sir**
 
-[![Anurag Playlist Image](https://i.ytimg.com/vi/fc2axTKm4ps/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCqkNPUCiJiGWTjoQff_8Xt0UREmA)](https://www.youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8)
+[![Anurag Video Image](https://i.ytimg.com/vi/CZHX9rmn5fY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu8IPx7BIatBK1xgyEtFsCrKiCyA)](https://www.youtube.com/watch?v=CZHX9rmn5fY&list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&index=4&pp=iAQB)
 
 >[Youtube Playlist Link](https://www.youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8) | [Anurag Portfolio Website](https://anuragsinghbam.com/)
 
-## Projects
+## Things Learnt
+- HTML uses
+- Creating own local server
+- Local server vs Remote server
+- HTML element
+- Tags :point_right: (h1, p, img)
+- Element Attributes
+  
+## Extra Resources
+- W3Schools: https://www.w3schools.com/
+- MDN: https://developer.mozilla.org/en-US/
+- Favicon Emoji: https://favicon.io/emoji-favicons/
+- Draw Favicon: http://faviconer.com/
 
-0. Inital Setup and Motivation :point_right: [Link](https://trishulnaik-frontend-anuragsir.netlify.app/)
+## Tools and Extesions Used
+- IDE - [VS Code](https://code.visualstudio.com/)
+- Extensions - [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
