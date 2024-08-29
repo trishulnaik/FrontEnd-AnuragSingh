@@ -3,7 +3,7 @@ Complete Front End Development by **Anurag Singh Sir**
 
 Reference Video:
 
-[![Anurag Video Image]([https://i.ytimg.com/an_webp/wBCzjbgY3FM/mqdefault_6s.webp?du=3000&sqp=CKiAh7UG&rs=AOn4CLDY1iYBfE8Vd1QtdNO3VA_rJcun4w](https://i.ytimg.com/vi/1dWQssiqKvQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDgCrHWNHslDblRE1Rim-gHIz0nQg))](https://youtu.be/1dWQssiqKvQ?si=GxgMqj-qzafX50gD)
+[![Anurag Video Image](https://i.ytimg.com/an_webp/wBCzjbgY3FM/mqdefault_6s.webp?du=3000&sqp=CKiAh7UG&rs=AOn4CLDY1iYBfE8Vd1QtdNO3VA_rJcun4w)](https://youtu.be/1dWQssiqKvQ?si=GxgMqj-qzafX50gD)
 
 >[Youtube Playlist Link](https://www.youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8) | [Anurag Portfolio Website](https://anuragsinghbam.com/)
 
