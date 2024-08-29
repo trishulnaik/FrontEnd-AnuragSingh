@@ -2,6 +2,7 @@
 Complete Front End Development by **Anurag Singh Sir**
 
 Reference Video:
+
 [![Anurag Video Image](https://i.ytimg.com/vi/XilLk1woFfw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9ZJb2CPJq9jbXadtj17xf4H2AgA)](https://www.youtube.com/watch?v=XilLk1woFfw&list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8&index=10)
 
 >[Youtube Playlist Link](https://www.youtube.com/playlist?list=PLfEr2kn3s-br9ZFmejfLhAgMbGgbpdof8) | [Anurag Portfolio Website](https://anuragsinghbam.com/)
@@ -11,7 +12,9 @@ Bohoth acha esehi karo, sabko patha chaljaye* -Anurag Singh
 
 Dummy Amazon Form Project :point_right:
 Project Design :art::paintbrush:
+
 ![Project Design](./Resources/Design/Screenshot%202024-08-29%20230241.png) 
+
 [Project Link](https://03-html-forms--trishulnaik-frontend-anuragsir.netlify.app/) :wrench:
 
 ## Things Learnt
